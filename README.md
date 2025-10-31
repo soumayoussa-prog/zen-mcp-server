@@ -444,4 +444,4 @@ Built with the power of **Multi-Model AI** collaboration 🤝
 
 ### Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=BeehiveInnovations/zen-mcp-server&type=Date)](https://www.star-history.com/#BeehiveInnovations/zen-mcp-server&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=BeehiveInnovations/guendouze-ahcene.github.io zen-mcp-server&type=Date)](https://www.star-history.com/#BeehiveInnovations/zen-mcp-server&Date)
